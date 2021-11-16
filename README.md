@@ -1,6 +1,6 @@
 # GESPRO_PracticaGestionTareas
 Componentes:
-Andrea Mínguez
-Celia Martinez
-Mario Hurtado
+Andrea Mínguez, 
+Celia Martinez, 
+Mario Hurtado, 
 Victor Pascual
